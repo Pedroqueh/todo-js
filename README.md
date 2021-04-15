@@ -1,14 +1,9 @@
-# Webpack Starter
+# TODO app: Javascript
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+Proyecto creado con javascript, crea una lista de cosas por hacer y las guarda en el local storage.
 
 ### Notas:
-Recuerden reconstruir los módulos de Node
+Creada con fines educativos a partir de un curso de Fernando Herrera
 ```
-npm install
-```
-
-Y para construir el build, recueren:
-```
-npm run build
+github.com/klerith
 ```
